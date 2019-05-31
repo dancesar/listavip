@@ -21,7 +21,7 @@ public class UsuarioService {
 
         usuario = new Usuario();
         usuario.setNome("Maria Eduarda");
-        usuario.setIdade(20);
+        usuario.setIdade(9);
         usuario.setEmail("maria.duda@gmail.com");
         usuarioLista.add(usuario);
 
@@ -40,7 +40,7 @@ public class UsuarioService {
         usuario = new Usuario();
 
         usuario.setNome("Maria Eduarda");
-        usuario.setIdade(20);
+        usuario.setIdade(9);
         usuario.setEmail("maria.duda@gmail.com");
 
         usuarioLista.add(usuario);
